@@ -18,7 +18,7 @@ Ensure you have **Python 3**, **Metasploit**, and **Ngrok** installed.
 ### **Step 1: Clone the Repository**
 ```bash
 git clone https://github.com/Ajvadn/Drooper.git
-cd DROOPER
+cd Drooper
 ```
 
 ### **Step 2: Install Required Dependencies**
