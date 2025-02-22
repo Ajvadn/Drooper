@@ -1,3 +1,5 @@
+![web](https://github.com/user-attachments/assets/1e08c16b-d1e6-4f61-824f-05bfa5ae6f80)
+![tool_cli](https://github.com/user-attachments/assets/67d62f27-268d-4362-9d8d-e6ae341e9f2d)
 # DROOPER - Social Engineering Tool
 ### Created by AJVAD-N
 
