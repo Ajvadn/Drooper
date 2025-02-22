@@ -58,12 +58,11 @@ This generates `dropper.exe` in the `DROOPER_OUTPUT` folder.
 ---
 ## 📸 Screenshots
 ### **Tool Interface:**
-![Drooper CLI]
-![web](https://github.com/user-attachments/assets/1e08c16b-d1e6-4f61-824f-05bfa5ae6f80)
+![tool_cli](https://github.com/user-attachments/assets/67d62f27-268d-4362-9d8d-e6ae341e9f2d)
 
 ### **Fake Hacking Course Website:**
-![Fake Course Website]
-![tool_cli](https://github.com/user-attachments/assets/67d62f27-268d-4362-9d8d-e6ae341e9f2d)
+![web](https://github.com/user-attachments/assets/1e08c16b-d1e6-4f61-824f-05bfa5ae6f80)
+
 
 ---
 ## ⚠️ Legal Disclaimer
