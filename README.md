@@ -56,6 +56,14 @@ This generates `dropper.exe` in the `DROOPER_OUTPUT` folder.
 - Useful for **remote attacks**.
 
 ---
+## 📸 Screenshots
+### **Tool Interface:**
+![Drooper CLI](tool_cli.png)
+
+### **Fake Hacking Course Website:**
+![Fake Course Website](web.png)
+
+---
 ## ⚠️ Legal Disclaimer
 🚨 **This tool is for educational and ethical testing purposes only.**  
 Using it on **unauthorized systems is illegal** and punishable by law. The creator is **not responsible** for any misuse.
