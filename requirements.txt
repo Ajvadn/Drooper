@@ -2,4 +2,5 @@ flask
 qrcode
 psutil
 pyngrok
-
+rich
+pyfiglet
